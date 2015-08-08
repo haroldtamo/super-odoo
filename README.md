@@ -9,10 +9,10 @@ Une liste organisée d'excellentes ressources (en français) sur Odoo
 Blogs
 -----
 
-- [Blog de Thierry Godin](thierry-godin.developpez.com)
-- [aitmlouk-addi.blogspot.com](aitmlouk-addi.blogspot.com)
-- [lolierp.blogspot.fr](lolierp.blogspot.fr)
+- [Blog de Thierry Godin](http://thierry-godin.developpez.com)
+- [aitmlouk-addi.blogspot.com](http://aitmlouk-addi.blogspot.com)
+- [lolierp.blogspot.fr](http://lolierp.blogspot.fr)
 
 Forums
 ------
-- [Forum developez.net](developpez.net/forums)
+- [Forum developez.net](http://www.developpez.net/forums/f1602/logiciels/solutions-d-entreprise/erp/odoo-ex-openerp/)

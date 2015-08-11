@@ -9,6 +9,7 @@ Une liste organisée d'excellentes ressources (en français) sur Odoo
 Blogs
 -----
 
+- [Blog Y-note](http://www.y-note.cm/category/blog/)
 - [Blog de Thierry Godin](http://thierry-godin.developpez.com)
 - [Expérience de déploiements Odoo](http://people.via.ecp.fr/~alexis/openerp/)
 - [aitmlouk-addi.blogspot.com](http://aitmlouk-addi.blogspot.com)

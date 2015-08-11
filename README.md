@@ -10,6 +10,7 @@ Blogs
 -----
 
 - [Blog de Thierry Godin](http://thierry-godin.developpez.com)
+- [Expérience de déploiements Odoo](http://people.via.ecp.fr/~alexis/openerp/)
 - [aitmlouk-addi.blogspot.com](http://aitmlouk-addi.blogspot.com)
 - [lolierp.blogspot.fr](http://lolierp.blogspot.fr)
 

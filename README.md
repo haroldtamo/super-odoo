@@ -14,8 +14,12 @@ Blogs
 - [Blog Y-note](http://www.y-note.cm/category/blog/)
 - [Blog de Thierry Godin](http://thierry-godin.developpez.com)
 - [Expérience de déploiements](http://people.via.ecp.fr/~alexis/openerp/)
-- [aitmlouk-addi.blogspot.com](http://aitmlouk-addi.blogspot.com)
 - [lolierp.blogspot.fr](http://lolierp.blogspot.fr)
+- [xcg-consulting.fr](http://xcg-consulting.fr/documentation/)
+- [Julius.fr](http://www.julius.fr/odoo/tutoriels-odoo/)
+- [6it.fr](https://6it.fr/blog/tutoriels-3)
+- [aitmlouk-addi.blogspot.com](http://aitmlouk-addi.blogspot.com)
+
 
 Forums
 ------

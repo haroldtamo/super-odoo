@@ -14,6 +14,7 @@ Blogs
 - [Blog Y-note](http://www.y-note.cm/category/blog/)
 - [Blog de Thierry Godin](http://thierry-godin.developpez.com)
 - [Expérience de déploiements](http://people.via.ecp.fr/~alexis/openerp/)
+- [Anybox.fr](https://anybox.fr/)
 - [lolierp.blogspot.fr](http://lolierp.blogspot.fr)
 - [xcg-consulting.fr](http://xcg-consulting.fr/documentation/)
 - [Julius.fr](http://www.julius.fr/odoo/tutoriels-odoo/)
@@ -24,3 +25,12 @@ Blogs
 Forums
 ------
 - [Forum developez.net](http://www.developpez.net/forums/f1602/logiciels/solutions-d-entreprise/erp/odoo-ex-openerp/)
+
+FAQs
+----
+- [FAQ developez.net](http://solutions-entreprise.developpez.com/erp-pgi/faq/openerp/)
+
+Livres/e-books
+--------------
+- [memento technique](http://thierry-godin.developpez.com/openerp/memento-technique-openerp-fr/)
+- [Docs sur Anybox](https://anybox.fr/docs)

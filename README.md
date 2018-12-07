@@ -17,9 +17,7 @@ Blogs
 - [Anybox.fr](https://anybox.fr/)
 - [Agipme.fr](https://agipme.fr)
 - [xcg-consulting.fr](http://xcg-consulting.fr/documentation/)
-- [Julius.fr](http://www.julius.fr/odoo/tutoriels-odoo/)
-- [6it.fr](https://6it.fr/blog/tutoriels-3)
-- [aitmlouk-addi.blogspot.com](http://aitmlouk-addi.blogspot.com)
+- [Nasserzone](https://www.nasserzone.com/)
 
 
 Forums

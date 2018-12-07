@@ -17,6 +17,7 @@ Blogs
 - [Anybox.fr](https://anybox.fr/)
 - [Agipme.fr](https://agipme.fr)
 - [xcg-consulting.fr](http://xcg-consulting.fr/documentation/)
+- [Nasserzone](https://www.nasserzone.com/)
 
 
 Forums
